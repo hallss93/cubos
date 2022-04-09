@@ -33,7 +33,7 @@
     "kafka-node": "^5.0.0",
     "method-override": "^3.0.0",
     "module-alias": "^2.2.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "morgan": "^1.9.1",
     "opentracing": "^0.14.4",
     "swagger-ui-express": "^4.1.2",
